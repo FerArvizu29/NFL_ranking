@@ -3,3 +3,5 @@ Se diseñó un ranking de posiciones ofensivas en la temporada 2024 de la NFL, u
 
 Los datos utilizados pueden descargarse del siguiente enlace:
 https://drive.google.com/file/d/1_WQBcUbBWFrpdvwXjfUshBHJq1ZBQCNl/view?usp=sharing
+
+Se anexa un reporte dónde se resumen los resultados del proyecto. 
